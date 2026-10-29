@@ -1,0 +1,3 @@
+:HL["/CarbPal-demo/_next/static/chunks/1p5_c1zawlaio.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"Jo_n4LuuanYboSf1CsN6E","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

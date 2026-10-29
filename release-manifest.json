@@ -1,0 +1,16 @@
+{
+  "app": "CarbPal",
+  "format": "static-pages-v1",
+  "basePath": "/CarbPal-demo",
+  "sourceRevision": "6e6c92b525a96c7908620bade652eca2afd4c69a",
+  "uncommittedChanges": false,
+  "models": {
+    "calculator": "v1",
+    "decision": "v2",
+    "cce": "v1",
+    "cycle": "v1",
+    "backup": "carbpal-3"
+  },
+  "data": "Application assets and synthetic demonstration logic only; no browser diary is included.",
+  "rights": "CarbPal application code: copyright Arya Kia, all rights reserved unless separately licensed. Source datasets retain their own terms; see in-app methods."
+}
